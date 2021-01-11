@@ -1,0 +1,222 @@
+keyword,definition,conceptnet,glove,word2vec
+ablaze,being on fire radiant with light or emotion,1,1,1
+accident,an unforeseen and unplanned event or circumstance Their meeting was an accident,1,1,1
+aftershock,an aftereffect of a distressing or traumatic event,1,1,1
+airplane_accident,aircraft in which a person is fatally or seriously injured and the aircraft sustains significant damage or structural failure,0,0,0
+ambulance,a vehicle equipped for transporting the injured or sick,1,1,1
+annihilated,to cause to cease to exist to do away with entirely so that nothing remains,1,1,1
+annihilation,the state or fact of being completely destroyed or obliterated,1,1,1
+apocalypse,a large disastrous fire or a great disaster,1,1,1
+armageddon,a usually vast decisive conflict or confrontation,1,1,1
+army,a large organized body of armed personnel trained for war especially on land,1,1,1
+arson,the willful or malicious burning of property such as a building especially with criminal or fraudulent intent Arson was determined to be the cause of the fire,1,1,1
+arsonist,the willful or malicious burning of property such as a building especially with criminal or fraudulent intent Arson was determined to be the cause of the fire,1,1,1
+attack,to set upon or work against forcefully attack an enemy fortification,1,1,1
+attacked,to set upon or work against forcefully attack an enemy fortification,1,1,1
+avalanche,a large mass of snow ice earth rock or other material in swift motion down a mountainside or over a precipice,1,1,1
+battle,a general encounter between armies ships of war or aircraft the battle of Normandy soldiers who fell in battle,1,1,1
+bioterror,terrorism involving the intentional release or dissemination of bacteria viruses insects fungi or toxins,1,1,1
+bioterrorism,terrorism involving the use of biological weapons,1,1,1
+blaze,an intensely burning fire,1,1,1
+blazing,burning very brightly and intensely a blazing fire,1,1,1
+bleeding,an act instance or result of being bled or the process by which something is bled,1,1,1
+blew_up,made explode fill something with air or gas when storm starts argument or problem begin,0,0,0
+blight,a disease or injury of plants marked by the formation of lesions withering and death of parts such as leaves and tubers potato blight,1,1,1
+blizzard,a long severe snowstorm,1,1,1
+blood,the fluid that circulates in the heart arteries capillaries and veins of a vertebrate animal carrying nourishment and oxygen to and bringing away waste products from all parts of the body,1,1,1
+bloody,containing or made up of blood,1,1,1
+blown_up,made explode fill something with air or gas when storm starts argument or problem begin,1,0,0
+body_bag,a large zippered bag as of rubber or vinyl in which a human corpse is placed especially for transportation,1,0,0
+body_bagging,a large zippered bag as of rubber or vinyl in which a human corpse is placed especially for transportation,0,0,0
+body_bags,a large zippered bag as of rubber or vinyl in which a human corpse is placed especially for transportation,1,0,0
+bomb,an explosive device fused to detonate under specified conditions,1,1,1
+bombed,affected by alcohol or drugs drunk high,1,1,1
+bombing,an explosive device fused to detonate under specified conditions,1,1,1
+bridge_collapse,bridge collapse,0,0,0
+buildings_burning,buildings burning,0,0,0
+buildings_on_fire,buildings are being on fire,0,0,0
+burned,to consume fuel and give off heat light and gases a small fire burns on the hearth,1,1,1
+burning,being on fire,1,1,1
+burning_buildings,buildings are being on fire,0,0,0
+bush_fires,an uncontrolled fire in a bush area,0,0,0
+casualties,a military person lost through death wounds injury sickness internment or capture or through being missing in action,1,1,1
+casualty,a military person lost through death wounds injury sickness internment or capture or through being missing in action,1,1,1
+catastrophe,a momentous tragic event ranging from extreme misfortune to utter overthrow or ruin Deforestation and erosion can lead to an ecological catastrophe,1,1,1
+catastrophic,a momentous tragic event ranging from extreme misfortune to utter overthrow or ruin Deforestation and erosion can lead to an ecological catastrophe,1,1,1
+chemical_emergency,a hazardous chemical has been released and the release has the potential for harming health of people,0,0,0
+cliff_fall,cliff fall,0,0,0
+collapse,to fall or shrink together abruptly and completely fall into a jumbled or flattened mass through the force of external pressure a blood vessel that collapsed,1,1,1
+collapsed,to fall or shrink together abruptly and completely fall into a jumbled or flattened mass through the force of external pressure a blood vessel that collapsed,1,1,1
+collide,to come together with solid or direct impact The car collided with a tree Two helicopters collided,1,1,1
+collided,to come together with solid or direct impact The car collided with a tree Two helicopters collided,1,1,1
+collision,an act or instance of colliding clash,1,1,1
+crash,to break violently and noisily smash,1,1,1
+crashed,to break violently and noisily smash,1,1,1
+crush,to squeeze or force by pressure so as to alter or destroy structure crush grapes,1,1,1
+crushed,to squeeze or force by pressure so as to alter or destroy structure crush grapes,1,1,1
+curfew,the sounding of a bell at evening,1,1,1
+cyclone,a storm or system of winds that rotates about a center of low atmospheric pressure advances at a high speed and often brings heavy rain,1,1,1
+damage,loss or harm resulting from injury to person property or reputation flood damage sustained severe damage to her knee,1,1,1
+danger,exposure or liability to injury pain harm or loss a place where children could play without danger was assured her job was not in danger,1,1,1
+dead,deprived of life no longer alive a dead tree dead soldiers missing and presumed dead,1,1,1
+death,a permanent cessation of all vital functions or the end of life,1,1,1
+deaths,a permanent cessation of all vital functions or the end of life,1,1,1
+debris,the remains of something broken down or destroyed digging through the storm debris in search of survivors sifted through the debris of her broken marriage,1,1,1
+deluge,an overflowing of the land by water,1,1,1
+deluged,an overflowing of the land by water,1,1,1
+demolish,tear down raze demolish a building,1,1,1
+demolished,tear down raze demolish a building,1,1,1
+demolition,the act of demolishing,1,1,1
+derail,to cause to run off the rails,1,1,1
+derailed,to cause to run off the rails,1,1,1
+derailment,to cause to run off the rails,1,1,1
+desolate,devoid of inhabitants and visitors deserted a desolate abandoned town,1,1,1
+desolation,the action of desolating,1,1,1
+destroy,to ruin the structure organic existence or condition of destroyed the files,1,1,1
+destroyed,to ruin the structure organic existence or condition of destroyed the files,1,1,1
+destruction,the state or fact of being destroyed ruin scenes of death and destruction the destruction of their careers,1,1,1
+detonate,to explode with sudden violence,1,1,1
+detonation,the action or process of detonating,1,1,1
+devastated,brought to a state of ruin or destruction,1,1,1
+devastation,to bring to ruin or desolation by violent action a country devastated by war The typhoon devastated the island,1,1,1
+disaster,a sudden calamitous event bringing great damage loss or destruction natural disasters,1,1,1
+displaced,to remove from the usual or proper place,1,1,1
+drought,a period of dryness especially when prolonged,1,1,1
+drown,to become drowned fell in the river and drowned chicken drowning in barbecue sauce drowning in paperwork,1,1,1
+drowned,to become drowned fell in the river and drowned chicken drowning in barbecue sauce drowning in paperwork,1,1,1
+drowning,to become drowned fell in the river and drowned chicken drowning in barbecue sauce drowning in paperwork,1,1,1
+dust_storm,a dust laden whirlwind that moves across an arid region and is usually associated with hot dry air and marked by high electrical tension,1,0,0
+earthquake,a shaking or trembling of the earth that is volcanic or tectonic in origin,1,1,1
+electrocute,to kill or severely injure by electric shock and electric current passing through the body,1,1,1
+electrocuted,to kill or severely injure by electric shock and electric current passing through the body,1,1,1
+emergency,an unforeseen combination of circumstances or the resulting state that calls for immediate action,1,1,1
+emergency_plan,make a plan to ensure that there will be an appropriate response to unexpected or accidental incidents and to prepare in the event of an emergency or disaster,0,0,0
+emergency_services,the services that the people can summon directly police fire EMS coastguard for critical emergency calls,1,0,0
+engulfed,to flow over and enclose overwhelm the mounting seas threatened to engulf the island,1,1,1
+epicentre,the point on the Earth surface directly above a hypocenter or focus and the point where an earthquake or an underground explosion originates,1,1,0
+evacuate,to remove the contents of empty,1,1,1
+evacuated,to remove the contents of empty,1,1,1
+evacuation,the act or process of evacuating,1,1,1
+explode,to burst forth with sudden violence or noise from internal energy,1,1,1
+exploded,showing the parts separated but in correct relationship to each other an exploded view of a carburetor,1,1,1
+explosion,the act or an instance of exploding injured in a laboratory explosion,1,1,1
+eyewitness,one who sees an occurrence or an object,1,1,1
+famine,an extreme scarcity of food The famine affected most of the country,1,1,1
+fatal,causing death a fatal crash a fatal disease a fatal wound,1,1,1
+fatalities,the quality or state of causing death or destruction,1,1,1
+fatality,the quality or state of causing death or destruction,1,1,1
+fear,an unpleasant often strong emotion caused by anticipation or awareness of danger,1,1,1
+fire,the phenomenon of combustion manifested in light flame and heat,1,1,1
+fire_truck,an automotive vehicle equipped with firefighting apparatus,1,0,0
+first_responders,a person such as a police officer or an EMT who is among those responsible for going immediately to the scene of an accident or emergency to provide assistance,0,0,0
+flames,the glowing gaseous part of a fire,1,1,1
+flattened,to make flat,1,1,1
+flood,a rising and overflowing of a body of water especially onto normally dry land The flood inundated the whole area,1,1,1
+flooding,a rising and overflowing of a body of water especially onto normally dry land The flood inundated the whole area,1,1,1
+floods,a rising and overflowing of a body of water especially onto normally dry land The flood inundated the whole area,1,1,1
+forest_fire,an uncontrolled fire in a wooded area,1,0,0
+forest_fires,an uncontrolled fire in a wooded area,1,0,1
+hail,precipitation in the form of small balls or lumps usually consisting of concentric layers of clear ice and compact snow,1,1,1
+hailstorm,a storm accompanied by hail,1,1,1
+harm,physical or mental damage injury the amount of harm sustained by the boat during the storm,1,1,1
+hazard,a source of danger hazards on the roadway,1,1,1
+hazardous,involving or exposing one to risk as of loss or harm a hazardous occupation disposing of hazardous waste,1,1,1
+heat_wave,a period of unusually hot weather,1,0,0
+hellfire,the eternal fire of hell that tortures sinners,1,1,1
+hijack,to steal by stopping a vehicle on the highway,1,1,1
+hijacker,to steal by stopping a vehicle on the highway,1,1,1
+hijacking,to steal by stopping a vehicle on the highway,1,1,1
+hostage,a person held by one party in a conflict as a pledge pending the fulfillment of an agreement,1,1,1
+hostages,a person held by one party in a conflict as a pledge pending the fulfillment of an agreement,1,1,1
+hurricane,a tropical cyclone or a rapidly rotating storm system with strong winds and usually accompanied by heavy rain thunder or squalls,1,1,1
+injured,to inflict bodily hurt on,1,1,1
+injuries,hurt damage or loss sustained,1,1,1
+injury,hurt damage or loss sustained,1,1,1
+inundated,overwhelm was inundated with phone calls,1,1,1
+inundation,overwhelm was inundated with phone calls,1,1,1
+landslide,the usually rapid downward movement of a mass of rock earth or artificial fill on a slope,1,1,1
+lava,molten rock that issues from a volcano or from a fissure in the surface of a planet such as earth or moon,1,1,1
+lightning,the flashing of light produced by a discharge of atmospheric electricity,1,1,1
+loud_bang,the sound of a loud bang,0,0,1
+mass_murder,the act of murdering a number of people,1,0,0
+mass_murderer,a person who has killed many people,1,0,1
+massacre,the act or an instance of killing a number of usually helpless or unresisting human beings under circumstances of atrocity or cruelty witnessed the massacre of a boatload of refugees,1,1,1
+mayhem,needless or willful damage or violence movies filled with murder and mayhem,1,1,1
+meltdown,the accidental melting of the core of a nuclear reactor,1,1,1
+military,of or relating to soldiers arms or war of or relating to armed forces,1,1,1
+mudslide,mudflow a moving mass of soil made fluid by rain or melting snow,1,1,1
+natural_disaster,a sudden and terrible event in nature such as a hurricane tornado or flood that usually results in serious damage and many deaths,1,0,0
+nuclear_disaster,accident that nuclear power is leaked or a nuclear power plant explosion occurs,0,0,0
+nuclear_reactor,a large device that produces nuclear energy,1,0,1
+obliterate,to remove utterly from recognition or memory,1,1,1
+obliterated,to remove utterly from recognition or memory,1,1,1
+obliteration,to remove utterly from recognition or memory,1,1,1
+oil_spill,the release of a liquid petroleum hydrocarbon into the environment especially the marine ecosystem due to human activity and is a form of pollution,1,0,1
+outbreak,a sudden or violent increase in activity or currency the outbreak of war,1,1,1
+pandemonium,a wild uproar as because of anger or excitement in a crowd of people,1,1,1
+panic,a sudden strong fear and dominated,1,1,1
+panicking,a sudden strong fear and dominated,1,1,1
+police,the department of government concerned primarily with maintenance of public order safety and health and enforcement of laws and possessing executive judicial and legislative powers,1,1,1
+quarantine,a restraint upon the activities or communication of persons or the transport of goods designed to prevent the spread of disease or pests,1,1,1
+quarantined,a restraint upon the activities or communication of persons or the transport of goods designed to prevent the spread of disease or pests,1,1,1
+radiation_emergency,emergency situation related by radiation,0,0,0
+rainstorm,a storm of or with rain,1,1,1
+razed,to destroy to the ground demolish raze an old building,1,1,1
+refugees,one that flees,1,1,1
+rescue,to free from confinement danger or evil,1,1,1
+rescued,to free from confinement danger or evil,1,1,1
+rescuers,person who make person to free from confinement danger or evil,1,1,1
+riot,a violent public disorder,1,1,1
+rioting,a violent public disorder,1,1,1
+rubble,broken fragments as of rock resulting from the decay or destruction of a building,1,1,1
+ruin,to damage irreparably,1,1,1
+sandstorm,a windstorm as in a desert driving clouds of sand before it,1,1,1
+screamed,to voice a sudden sharp loud cry,1,1,1
+screaming,so striking or conspicuous as to attract notice as if by screaming screaming headlines dressed in screaming red,1,1,1
+screams,to voice a sudden sharp loud cry,1,1,1
+seismic,of subject to or caused by an earthquake,1,1,1
+sinkhole,a hollow place or depression in which drainage collects,1,1,1
+sinking,to go to the bottom submerge,1,1,1
+siren,any of a group of female and partly human creatures in Greek mythology that lured mariners to destruction by their singing,1,1,1
+sirens,any of a group of female and partly human creatures in Greek mythology that lured mariners to destruction by their singing,1,1,1
+smoke,the gaseous products of burning materials especially of organic origin made visible by the presence of small particles of carbon,1,1,1
+snowstorm,a storm of or with snow,1,1,1
+storm,a disturbance of the atmosphere marked by wind and usually by rain snow hail sleet or thunder and lightning,1,1,1
+stretcher,one that stretches,1,1,1
+structural_failure,the loss of carrying load capacity in either a structural component or the structure itself ,0,0,0
+suicide_bomb,a bomb carried by someone who plans to be killed by it when it explodes,1,0,0
+suicide_bomber,a person who commits suicide by exploding a bomb in order to kill other people a suicide bomber,1,0,1
+suicide_bombing,a suicide attack in which the attacker accepts their own death as a direct result of the method used to harm damage or destroy the target,1,0,1
+sunk,depressed in spirits,1,1,1
+survive,to remain alive or in existence live on,1,1,1
+survived,to remain alive or in existence live on,1,1,1
+survivors,to remain alive or in existence live on,1,1,1
+terrorism,the systematic use of terror especially as a means of coercion,1,1,1
+terrorist,an advocate or practitioner of terrorism as a means of coercion,1,1,1
+threat,an expression of intention to inflict evil injury or damage,1,1,1
+thunder,the sound that follows a flash of lightning and is caused by sudden expansion of the air in the path of the electrical discharge,1,1,1
+thunderstorm,a storm accompanied by lightning and thunder,1,1,1
+tornado,a violent destructive whirling wind accompanied by a funnel shaped cloud that progresses in a narrow path over the land,1,1,1
+tragedy,a disastrous event calamity,1,1,1
+trapped,a device for taking game or other animals,1,1,1
+trauma,an injury such as a wound to living tissue caused by an extrinsic agent,1,1,1
+traumatised,inflicted trauma harm or injury,1,1,0
+trouble,the quality or state of being troubled especially mentally,1,1,1
+tsunami,a great sea wave produced especially by submarine earth movement or volcanic eruption tidal wave,1,1,1
+twister,one that twists,1,1,1
+typhoon,a hurricane occurring especially in the region of the Philippines or the China sea,1,1,1
+upheaval,the action or an instance of upheaving especially of part of crust of the earth,1,1,1
+violent_storm,violent storm,0,0,0
+volcano,a vent in the crust of the earth or another planet or a moon from which usually molten or hot rock and steam issue,1,1,1
+war_zone,a zone in which belligerents are waging war,1,0,0
+weapon,something such as a club knife or gun used to injure defeat or destroy,1,1,1
+weapons,something such as a club knife or gun used to injure defeat or destroy,1,1,1
+whirlwind,a small rotating windstorm of limited extent,1,1,1
+wild_fires,a sweeping and destructive conflagration especially in a wilderness or a rural area,0,0,0
+wildfire,a sweeping and destructive conflagration especially in a wilderness or a rural area,1,1,1
+windstorm,a storm marked by high wind with little or no precipitation,1,1,1
+wounded,wounded persons,1,1,1
+wounds,an injury to the body as from violence accident or surgery that typically involves laceration or breaking of a membrane such as the skin and usually damage to underlying tissues,1,1,1
+wreck,something cast up on the land by the sea especially after a shipwreck,1,1,1
+wreckage,the act of wrecking the state of being wrecked,1,1,1
+wrecked,something cast up on the land by the sea especially after a shipwreck,1,1,1
